@@ -1,2 +1,10 @@
-# PearRelease
-PearRelease
+# Pear 앱 배포 (혁규농원)
+
+"혁규농원" 배송관리 앱의 **APK 배포 전용 저장소**입니다. 소스 코드는 비공개 저장소(PearCode)에 있으며, 여기는 설치 파일과 버전별 변경사항만 올라옵니다.
+
+## 설치 방법
+1. [Releases](https://github.com/greenhelix/PearRelease/releases)에서 최신 버전의 `.apk` 파일 다운로드
+2. 안드로이드 폰에서 설치 (출처를 알 수 없는 앱 설치 허용 필요)
+
+## 버전 변경사항
+각 릴리즈 노트에 버전별 변경사항이 기록됩니다.
